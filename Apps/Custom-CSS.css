@@ -1,0 +1,6 @@
+#app-dashboard h2 {display: none!important;} /* Hide greeting */
+#status-weather {padding-top: 50px!important;}
+#nextcloud {display: none!important;}
+.logo {display: none!important;}
+div.side-menu-logo {display: none!important;}
+.statuses {margin-bottom: 0!important;}
