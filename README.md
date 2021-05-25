@@ -1,2 +1,2 @@
 # nextcloud
-Scripts and customazions for Nextcloud
+Scripts and customizions for Nextcloud
