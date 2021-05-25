@@ -7,4 +7,7 @@
 # Put this file in the web root of your domain, where nextcloud is hosted.
 #
 exec("/usr/bin/php cron.php 2>&1", $out, $result);
+echo "Returncode: " .$result ."<br>";
+echo "Output: " ."<br>";
+echo "<pre>"; print_r($out);
 ?>
