@@ -28,7 +28,7 @@ If you get a warning message about additional files when updating Nextcloud, ope
 			'themes',
 			'updater',
 			'nextcloud-data', # added by me
-      'tmp', # added by me
+			'tmp', # added by me
 			// Files
 			'.rnd',
 			'index.html',
@@ -49,7 +49,7 @@ If you get a warning message about additional files when updating Nextcloud, ope
 			'COPYING-AGPL',
 			'occ',
 			'db_structure.xml',
-      'webcron.php', # added by me
+			'webcron.php', # added by me
 		];
 ```
 
